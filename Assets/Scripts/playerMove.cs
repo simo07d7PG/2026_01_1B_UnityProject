@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Rendering;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMove : MonoBehaviour
 {
     [Header("기본 이동 설정")]
     public float moveSpeed = 5.0f;                                      // 이동 속도 변수 설정
